@@ -7,13 +7,13 @@ Sistema CRUD (Crear, Leer, Actualizar, Eliminar) para gestión de contactos con 
 -  Alta, modificación y eliminación de contactos
 -  Búsqueda flexible por ID o cualquier campo (nombre, apellido, etc.)
 -  Validación defensiva antes de operar (evita errores comunes)
--  Persistencia automática en `contactos.json`
+-  Persistencia automática en contactos.json
 -  Exportación a CSV compatible con Excel/Google Sheets
 -  Manejo robusto de datos heterogéneos (campos faltantes, claves dinámicas)
 
 ## Tecnologías
-- Python 3.x (stdlib: `json`, `csv`)
-- Estructuras nativas: listas, diccionarios, conjuntos (`set`)
+- Python 3.x (stdlib: json, csv)
+- Estructuras nativas: listas, diccionarios, conjuntos (set)
 
 ## Cómo usar
 ```bash
